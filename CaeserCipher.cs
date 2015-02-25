@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CeaserCipher
 {
-    class CaeserHipter
+    class CaeserCipher
     {
         static string caeser_encrypt(string str, int n)
         {
